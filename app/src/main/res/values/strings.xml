@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AndroidDance</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="label_dancar">Dançar</string>
+    <string name="label_parar">Stop</string>
+</resources>
